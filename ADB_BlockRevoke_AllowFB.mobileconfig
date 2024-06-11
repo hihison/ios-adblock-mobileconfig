@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>全域 HTTP 代理伺服器</string>
+			<key>PayloadDisplayName</key>
+			<string>全域 HTTP 代理伺服器</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.proxy.http.global.FAF27EE0-FBB3-4227-B4A0-61BC4EE7438C</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>FAF27EE0-FBB3-4227-B4A0-61BC4EE7438C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+			<key>ProxyPACFallbackAllowed</key>
+			<false/>
+			<key>ProxyPACURL</key>
+			<string>https://cdn.jsdelivr.net/gh/hihison/ios-adblock-mobileconfig@main/ADB_BlockRevoke_AllowFB.pac</string>
+			<key>ProxyType</key>
+			<string>Auto</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Based on MYbloXX</string>
+	<key>PayloadDisplayName</key>
+	<string>AdBlock With Anti Revoke</string>
+	<key>PayloadIdentifier</key>
+	<string>net.hihison.adbr</string>
+	<key>PayloadOrganization</key>
+	<string>HIHISON</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E5C4BB5A-6223-418B-9C8A-5968C23BEC8D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
